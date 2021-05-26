@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+But it's you, whose soul desires
 Use the left arrow to go back!
